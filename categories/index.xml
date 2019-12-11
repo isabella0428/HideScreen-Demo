@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Universal</title>
-    <link>https://example.org/categories/</link>
+    <link>https://isabella0428.github.io/HideScreen-Demo/categories/</link>
     <description>Recent content in Categories on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://isabella0428.github.io/HideScreen-Demo/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>lorem</title>
-      <link>https://example.org/categories/lorem/</link>
+      <link>https://isabella0428.github.io/HideScreen-Demo/categories/lorem/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://example.org/categories/lorem/</guid>
+      <guid>https://isabella0428.github.io/HideScreen-Demo/categories/lorem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>https://example.org/categories/programming/</link>
+      <link>https://isabella0428.github.io/HideScreen-Demo/categories/programming/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://example.org/categories/programming/</guid>
+      <guid>https://isabella0428.github.io/HideScreen-Demo/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pseudo</title>
-      <link>https://example.org/categories/pseudo/</link>
+      <link>https://isabella0428.github.io/HideScreen-Demo/categories/pseudo/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://example.org/categories/pseudo/</guid>
+      <guid>https://isabella0428.github.io/HideScreen-Demo/categories/pseudo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>starting</title>
-      <link>https://example.org/categories/starting/</link>
+      <link>https://isabella0428.github.io/HideScreen-Demo/categories/starting/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://example.org/categories/starting/</guid>
+      <guid>https://isabella0428.github.io/HideScreen-Demo/categories/starting/</guid>
       <description></description>
     </item>
     
